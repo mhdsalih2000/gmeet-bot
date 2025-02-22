@@ -1,1 +1,1 @@
-# spetix.ai
+This project aims to develop a bot that can automatically join a Google Meet session, capture both audio and video, and process or store the recording. The bot will act as a real participant by logging into a Google account, entering a meeting code, and enabling the microphone and camera.
